@@ -66,7 +66,7 @@ I'm an enthusiastic IT undergraduate with a passion for developing efficient and
 - 📱 Phone: +94 763090181  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pasinduwickrama)  
 - 💻 [GitHub](https://github.com/Dewick75)  
-- 🌐 [Portfolio](https://pasinduwickramasinghe.netlify.app)  
+- 🌐 [Portfolio](https://pasinduwickramasinghe.great-site.net)  
 
 ---
 
